@@ -1,6 +1,6 @@
 import java.util.HashMap;
 import java.util.Scanner;
-
+//https://codeforces.com/problemset/problem/455/A
 public class Boredom {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

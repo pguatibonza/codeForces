@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//https://codeforces.com/problemset/problem/466/A
 public class CheapTravel {
     public static void main(String[] args) {
         Scanner sc=new Scanner(System.in);
